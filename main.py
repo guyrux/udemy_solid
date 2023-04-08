@@ -1,8 +1,9 @@
 from src.github.client import GitHubClient
 from src.report.parser import RepoParser
 from src.report.report_generator import ReportGenerator
-from src.report.reports.html_generator import HTMLGenerator
-from src.report.reports.markdown_generator import MarkdownGenerator
+from src.report.templates.html_generator import HTMLGenerator
+from src.report.templates.markdown_generator import MarkdownGenerator
+from src.models.user import Member, Manager
 
 
 if __name__ == '__main__':
@@ -18,3 +19,8 @@ if __name__ == '__main__':
         print(html_report)
     else:
         print(f"Status code: {response['status_code']}")
+
+    member = Member('guyrux', 'guyrux@gmail.com')
+    manager = Manager('Teo', 'teomewhy@gmail.com')
+
+    print(member.list_member())
