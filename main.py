@@ -1,10 +1,10 @@
 from src.github.client import GitHubClient
+from src.models.user import Manager, Member
 from src.report.parser import RepoParser
 from src.report.report_generator import ReportGenerator
 from src.report.templates.html_generator import HTMLGenerator
 from src.report.templates.markdown_generator import MarkdownGenerator
-from src.models.user import Member, Manager
-
+from src.report.writer import ReportFileWriter, Writer
 
 if __name__ == '__main__':
     user_name = 'guyrux'
@@ -27,3 +27,5 @@ if __name__ == '__main__':
 
     print(f'{member._username}: {member.work()}')
     print(f'{manager._username}: {manager.work()}')
+
+    Writer.write(markdown_report, writer=ReportFileWriter)

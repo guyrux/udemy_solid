@@ -1,0 +1,32 @@
+## REPOS 
+
+**ID: **533817847|**Name: **analytics_coffee|**Stars:** 0
+ **ID: **350687925|**Name: **autompg-dataset|**Stars:** 0
+ **ID: **543349642|**Name: **book_introduction_to_ml_w_python|**Stars:** 0
+ **ID: **152519118|**Name: **corda_bootcamp|**Stars:** 0
+ **ID: **151728013|**Name: **dataviz_para_todos|**Stars:** 0
+ **ID: **298153343|**Name: **data_describe|**Stars:** 0
+ **ID: **428069640|**Name: **data_engineering_m05_mercado_bitcoin|**Stars:** 0
+ **ID: **257783558|**Name: **data_visualization|**Stars:** 1
+ **ID: **286095191|**Name: **deeplearning_a_z|**Stars:** 0
+ **ID: **339741915|**Name: **desafio-iafront|**Stars:** 0
+ **ID: **391436639|**Name: **desafio-observatorio|**Stars:** 0
+ **ID: **341408873|**Name: **django_again|**Stars:** 0
+ **ID: **287665535|**Name: **django_pythonpro|**Stars:** 0
+ **ID: **412280624|**Name: **ds-flask-react|**Stars:** 0
+ **ID: **411487529|**Name: **duke_course1_week5_01_hugo_site|**Stars:** 0
+ **ID: **292113546|**Name: **guyrux|**Stars:** 0
+ **ID: **517471571|**Name: **house_prices_regression|**Stars:** 0
+ **ID: **134470489|**Name: **IOTSP2018|**Stars:** 0
+ **ID: **297520906|**Name: **ISL|**Stars:** 3
+ **ID: **497769748|**Name: **kaggle_regression_house_pricing_prediction|**Stars:** 0
+ **ID: **147895492|**Name: **kotlin_bootcamp|**Stars:** 0
+ **ID: **381436776|**Name: **MLEP-public|**Stars:** 0
+ **ID: **369061121|**Name: **predict_future_sales|**Stars:** 0
+ **ID: **156604299|**Name: **PrimeirosPassosComCSharp|**Stars:** 1
+ **ID: **499830473|**Name: **pyDecision|**Stars:** 0
+ **ID: **221967117|**Name: **pythonbirds|**Stars:** 0
+ **ID: **340752265|**Name: **PyTools-API-GitHub|**Stars:** 0
+ **ID: **625005875|**Name: **repo|**Stars:** 0
+ **ID: **407280572|**Name: **scaffold-project|**Stars:** 0
+ **ID: **305164456|**Name: **show-api-flask|**Stars:** 0
